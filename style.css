@@ -1,0 +1,39 @@
+
+nav{
+    height: 100px;
+    background-color: red;
+    padding-top: 10px;
+}
+.navigation {
+    display:  flex;
+    justify-content: space-between;
+    height: 80px;
+    background-color: aqua;
+    padding-top: 30px;
+    width: 90%;
+    margin: 0 auto;
+    
+    
+    
+}
+.ul{
+   
+    width: 450px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+nav{
+    position: relative;
+}
+.burg{
+    width: 30px;
+    height: 20px;
+    position: absolute;
+    right: 15px;
+    background-color: white;
+    display: none;
+    
+}
